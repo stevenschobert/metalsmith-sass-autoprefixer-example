@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss"
+	],
+	"sourcesContent": [
+		"$color: red;\n\n.mydiv {\n  background: $color;\n  display: -webkit-box;\n  display: -webkit-flex;\n  display: -ms-flexbox;\n  display: flex;\n}\n"
+	],
+	"mappings": "AAEA,MAAM,AAAC,CACL,UAAU,CAHJ,GAAG,CAIT,OAAO,CAAE,WAAY,CACrB,OAAO,CAAE,YAAa,CACtB,OAAO,CAAE,WAAY,CACrB,OAAO,CAAE,IAAK,CACf",
+	"names": []
+}
